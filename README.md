@@ -24,4 +24,5 @@ Make sure to install the following dependencies to run the code:
   - sklearn
   - matplotlib
   - seaborn
+
 Before running the code, the dataset must be uploaded to the same directory as the .py file. You can access the dataset via the link (https://archive.ics.uci.edu/dataset/267/banknote+authentication)
